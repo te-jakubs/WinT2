@@ -1,0 +1,14 @@
+{
+  "addons": {
+    "9FF6C494B8CB47DA96A67DAB372527DC@jakub.sarec": {
+      "updates": [
+        {
+          "version": "1.0.3",
+          "update_link": "https://example.com/addon-0.1.xpi"
+        }
+          }
+        }
+      ]
+    }
+  }
+}
